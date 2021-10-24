@@ -323,6 +323,7 @@ footer h4{
     font-weight: 600;
 }
 .icons .fa {
+    color: #f44336;
     margin: 0 13px;
     cursor: pointer;
     padding: 18px 0;
